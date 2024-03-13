@@ -1,0 +1,8 @@
+ [
+    {"id": 1, "title": "Book 1", "author": "Author 1", "year": 2000, "image": "https://example.com/book1.jpg", "price": 20.99, "rating": 4.5, "discount_price": 18.99},
+    {"id": 2, "title": "Book 2", "author": "Author 2", "year": 2005, "image": "https://example.com/book2.jpg", "price": 15.50, "rating": 3.8, "discount_price": 12.99},
+    {"id": 3, "title": "Book 3", "author": "Author 3", "year": 2010, "image": "https://example.com/book3.jpg", "price": 25.00, "rating": 4.2, "discount_price": 21.99},
+    {"id": 4, "title": "Book 4", "author": "Author 4", "year": 2015, "image": "https://example.com/book4.jpg", "price": 18.75, "rating": 4.0, "discount_price": 16.49},
+    {"id": 5, "title": "Book 5", "author": "Author 5", "year": 2020, "image": "https://example.com/book5.jpg", "price": 30.00, "rating": 4.8, "discount_price": 27.99},
+    {"id": 6, "title": "Book 6", "author": "Author 6", "year": 2025, "image": "https://example.com/book6.jpg", "price": 22.50, "rating": 4.1, "discount_price": 19.99}
+]
